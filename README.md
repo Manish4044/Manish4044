@@ -2,12 +2,12 @@
 
 ## :rocket:About me
 
-I am Manish Yadav, a cross platform developer (specializing in __Front End Development__) pursuing my Bachelors in __Computer Science & Engineering__.
+:school: I am Manish Yadav, a cross platform developer (specializing in __Front End Development__) pursuing my Bachelors in __Computer Science & Engineering__.
 
 I enjoy working on software projects and am really enthusiastic about learning new technology. I have learnt __ReactJS__, __NodeJS__, __ElectronJS__, __Typescript__ till now. I have good experience of making __responsive web designs__ and __progressive web app__. I am planning to start __open source contribution__ and start my own __blogging__ website recently.
 
 Outside the world of tech, I love pushing myself to develop new skill such as __writing__ and __painting__.
 
-I love __reading books__ on fiction & biographies.
+:blue_book: I love __reading books__ on fiction & biographies.
 
-I also love playing __video games__. I like the __action-adventure__ genre the most. My favorite game is __God of War__.
+:video_game: I also love playing __video games__. I like the __action-adventure__ genre the most. My favorite game is __God of War__.
