@@ -6,7 +6,7 @@
 
 :computer:I enjoy working on software projects and am really enthusiastic about learning new technology. I have learnt __ReactJS__, __NodeJS__, __ElectronJS__, __Typescript__ till now. I have good experience of making __responsive web designs__ and __progressive web app__. I am planning to start __open source contribution__ and start my own __blogging__ website recently.
 
-:globe_with_meridians: Outside the world of tech, I love pushing myself to develop new skill such as __writing__ and __painting__.
+:globe_with_meridians: Outside the world of tech, I love pushing myself to develop new skill like __writing__ and __painting__.
 
 :blue_book: I love __reading books__ on fiction & biographies.
 
